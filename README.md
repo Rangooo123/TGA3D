@@ -1,3 +1,3 @@
 # TGA3D
 
-[Watch video on YouTube](https://www.youtube.com/watch?v=eQSrY7SjrTQ&source_ve_path=MTc4NDI0)
+[![YouTube视频](https://img.youtube.com/vi/eQSrY7SjrTQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=eQSrY7SjrTQ)
