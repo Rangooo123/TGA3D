@@ -1,5 +1,5 @@
 # TGA3D: Texture-Geometry Admixture with Explicit 3D for Single-Image Novel View Synthesis
-## Accepted by IEEE Trans Multi Media
+## Accepted by IEEE Trans on Multi Media (CCF-A, SCI TOP)
 
 
 Demo Video (Click to watch)
